@@ -1,7 +1,7 @@
 ### Hi there 👋🐒​🦥​
 
 
-<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&layout=compact&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" alt="stats graph"  /> 
+<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&layout=compact&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" alt="stats graph"  /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=jolly&username=Xhst" alt="lang" width="400"/> 
 
 
