@@ -1,7 +1,7 @@
 # Hi there 👋🐒​🦥​
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&layout=compact&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" alt="stats graph"  /> 
+<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&layout=compact&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" alt="stats graph"  /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=jolly&username=Xhst" alt="lang" width="400"/> 
 <p>
   <img height="25" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
