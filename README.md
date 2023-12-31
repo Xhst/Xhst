@@ -23,7 +23,7 @@ I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre Univers
 
 My main IT fields of interest are:
 - 📚 Theory of computation and math
-- 📐Software architecture and design
+- 📐 Software architecture and design
 - 🌐 Web development
 - 🕹️ Game development
 - 💻 Parallel and distributed computing
@@ -32,6 +32,8 @@ I'm also interested in:
 - 🌱 Climate and environment
 - 🍽️ Cooking
 - 🐛 Animals
+- 🧪 Science
+- 🧠 Psychology
 <!--
 **Xhst/Xhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
