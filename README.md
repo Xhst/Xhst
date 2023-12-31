@@ -24,6 +24,7 @@ I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre Univers
 My main IT fields of interest are:
 - 📚 Theory of computation and math
 - 📐 Software architecture and design
+- 🛠️ Algorithms and data structures
 - 🌐 Web development
 - 🕹️ Game development
 - 💻 Parallel and distributed computing
