@@ -9,10 +9,14 @@
  8P        Y8  88       88   `YbbdP"'    "Y888  
 -->
 
-![Header](./assets/header.png)
+<p align="center"> 
+<img src="./assets/header.png" />
+</p>
                                                
-I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre University.
+<h3 align="center"> I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre University. 🐒🦥 </h3>
+
 #
+
 <p align="center"> 
 
  <picture>
