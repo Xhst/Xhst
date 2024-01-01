@@ -14,8 +14,8 @@
 I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre University.
 #
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" height="250" alt="stats graph"  /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=jolly&username=Xhst" alt="lang" width="400" height="250"/> 
+<img src="https://github-readme-stats.vercel.app/api?bg_color=563681&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" height="250" alt="stats graph"  /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?bg_color=563681&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=jolly&username=Xhst" alt="lang" width="400" height="250"/> 
 </p>
 
 <p align="center">
