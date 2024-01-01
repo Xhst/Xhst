@@ -66,7 +66,7 @@
 - 🍽️  &nbsp; Cooking <br>
 - 🐛  &nbsp; Animals <br>
 - 🧪  &nbsp; Science <br>
-- 🧠  &nbsp; Psychology
+- 🧠  &nbsp; Psychology <br><br>
 </p>
 
 #
