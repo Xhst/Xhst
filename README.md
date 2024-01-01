@@ -52,20 +52,23 @@
 
 #
 
-My main IT fields of interest are:
-- 📚 Theory of computation and math
-- 📐 Software architecture and design
-- 🛠️ Algorithms and data structures
-- 🌐 Web development
-- 🕹️ Game development
-- 💻 Parallel and distributed computing
+<p>
+ <img src="./assets/cre.png" align="right" width="350" />
+ <b>My main IT fields of interest are:</b> <br>
+- 📚 &nbsp; Theory of computation and math <br>
+- 📐 &nbsp; Software architecture and design <br>
+- 🛠️ &nbsp; Algorithms and data structures <br>
+- 🌐 &nbsp; Web development <br>
+- 🕹️ &nbsp; Game development <br>
+- 💻 &nbsp; Parallel and distributed computing <br><br>
+ <b>I'm also interested in:</b> <br>
+- 🌱  &nbsp; Climate and environment <br>
+- 🍽️  &nbsp; Cooking <br>
+- 🐛  &nbsp; Animals <br>
+- 🧪  &nbsp; Science <br>
+- 🧠  &nbsp; Psychology
+</p>
 
-I'm also interested in:
-- 🌱 Climate and environment
-- 🍽️ Cooking
-- 🐛 Animals
-- 🧪 Science
-- 🧠 Psychology
 <!--
 **Xhst/Xhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
