@@ -1,9 +1,11 @@
 # Hi there 👋🐒​🦥​
 I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre University.
-
-<img src="https://github-readme-stats.vercel.app/api?custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" alt="stats graph"  /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=jolly&username=Xhst" alt="lang" width="400"/> 
-<p>
+#
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" height="250" alt="stats graph"  /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=jolly&username=Xhst" alt="lang" width="400" height="250"/> 
+</p>
+<p align="center"> 
   <img height="25" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
   <img height="25" alt="csharp" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png">
   <img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/javascript/javascript.png">
@@ -19,6 +21,8 @@ I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre Univers
   <img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/nodejs/nodejs.png">
   <img height="25" alt="vue" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/vue/vue.png">
 </p>
+
+#
 
 My main IT fields of interest are:
 - 📚 Theory of computation and math
