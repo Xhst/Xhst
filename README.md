@@ -69,6 +69,10 @@
 - 🧠  &nbsp; Psychology
 </p>
 
+#
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xhst&custom_title=Xhst's%20activity%20graph&bg_color=0D1117&color=9153DB&line=9153DB&point=FF64DA&area_color=FF64DA&title_color=FF64DA&area=true" />
+
 <!--
 **Xhst/Xhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
