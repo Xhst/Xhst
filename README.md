@@ -1,4 +1,6 @@
 ![Header](./assets/github-header.png)
+
+I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre University.
 #
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=jolly&username=Xhst" width="400" height="250" alt="stats graph"  /> 
