@@ -49,9 +49,9 @@
   <!-- https://github.com/tandpfun/skill-icons#icons-list -->
  <h3>Languages ​​and technologies that I've used</h3><br>
  <h4>Languages</h4>
- <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,php,rust,lua,ocaml,latex">
+ <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
  <h4>Technologies</h4>
- <img src="https://skillicons.dev/icons?i=spring,docker,godot,unity,vue,ros,jquery,bootstrap,matlab,nodejs,postgres,mysql,raspberrypi,sass,wordpress,firebase,gradle,maven,hibernate,postman">
+ <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,firebase,gradle,maven,hibernate,postman">
 </p>
 
 #
