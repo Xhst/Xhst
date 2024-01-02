@@ -45,10 +45,13 @@
 
 #
 
-<p align="center">
- <b>Languages ​​and technologies that I've used</b><br><br>
-<!-- https://github.com/tandpfun/skill-icons#icons-list -->
-<img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,jquery,ts,py,html,css,php,godot,unity,spring,vue,docker,ros,rust,bootstrap,matlab,nodejs,ocaml,postgres,raspberrypi,sass,wordpress,latex,firebase,gradle,maven">
+<p>
+  <!-- https://github.com/tandpfun/skill-icons#icons-list -->
+ <h3>Languages ​​and technologies that I've used</h3><br>
+ <h4>Languages</h4>
+ <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,php,rust,lua,ocaml,latex">
+ <h4>Technologies</h4>
+ <img src="https://skillicons.dev/icons?i=spring,docker,godot,unity,vue,ros,jquery,bootstrap,matlab,nodejs,postgres,mysql,raspberrypi,sass,wordpress,firebase,gradle,maven,hibernate,postman">
 </p>
 
 #
