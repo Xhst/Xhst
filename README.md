@@ -47,7 +47,7 @@
 
 <p>
   <!-- https://github.com/tandpfun/skill-icons#icons-list -->
- <h3>Languages ​​and technologies that I've used</h3><br>
+ <h3>Languages ​​and technologies I've used</h3><br>
  <h4>Languages</h4>
  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
  <h4>Technologies</h4>
