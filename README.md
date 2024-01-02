@@ -48,7 +48,7 @@
 <p align="center">
  <b>Languages ​​and technologies that I've used</b><br><br>
 <!-- https://github.com/tandpfun/skill-icons#icons-list -->
-<img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,jquery,ts,py,html,css,php,godot,unity,spring,vue,docker,ros,rust,bootstrap,matlab,nodejs,ocaml,postgres,raspberrypi,sass,wordpress,dotnet,firebase,gradle,maven">
+<img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,jquery,ts,py,html,css,php,godot,unity,spring,vue,docker,ros,rust,bootstrap,matlab,nodejs,ocaml,postgres,raspberrypi,sass,wordpress,latex,firebase,gradle,maven">
 </p>
 
 #
