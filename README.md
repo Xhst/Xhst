@@ -45,17 +45,20 @@
 
 #
 
+<details>
 <p>
   <!-- https://github.com/tandpfun/skill-icons#icons-list -->
- <h3>Languages ​​and technologies I've used</h3><br>
+ <summary><h3>Languages ​​and technologies I've used 💻</h3></summary>
  <h4>Languages</h4>
  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
  <h4>Technologies</h4>
  <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,firebase,gradle,maven,hibernate,postman,kafka">
 </p>
+</details>
 
 #
-
+<details>
+<summary><h3>About me 💥</h3></summary>
 <p>
  <img src="./assets/cre.png" align="right" width="350" />
  <b>My main IT fields of interest are:</b> <br>
@@ -72,6 +75,7 @@
 - 🧪  &nbsp; Science <br>
 - 🧠  &nbsp; Psychology <br><br>
 </p>
+</details>
 
 #
 
