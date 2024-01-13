@@ -51,7 +51,7 @@
  <h4>Languages</h4>
  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
  <h4>Technologies</h4>
- <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,firebase,gradle,maven,hibernate,postman">
+ <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,firebase,gradle,maven,hibernate,postman,kafka">
 </p>
 
 #
