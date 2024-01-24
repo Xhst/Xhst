@@ -56,7 +56,7 @@
 </p>
 </details>
 
-#
+<!-- #
 <details>
 <summary><h3>About me 💥</h3></summary>
 <p>
@@ -76,6 +76,7 @@
 - 🧠  &nbsp; Psychology <br><br>
 </p>
 </details>
+-->
 
 #
 
