@@ -21,14 +21,14 @@
 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=Xhst"
+    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=Xhst"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=Xhst"
+    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=Xhst"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&username=Xhst" width="400" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&username=Xhst" width="400" height="250"/>
 </picture>
 
  <picture>
@@ -82,7 +82,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xhst&custom_title=Xhst's%20activity%20graph&bg_color=00000000&color=9153DB&line=9153DB&point=FF64DA&area_color=FF64DA&title_color=3ed784&area=true&hide_border=true" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=3000&color=3ED784&center=true&vCenter=true&random=false&width=435&height=20&lines=01011000+01101000+01110011+01110100+" />
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=3000&color=3ED784&center=true&vCenter=true&random=false&width=435&height=18&lines=01011000+01101000+01110011+01110100+" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Xhst&style=flat-square&color=3ED784"/>
 
 <!--
 **Xhst/Xhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
