@@ -47,7 +47,7 @@
 <details>
 <p>
   <!-- https://github.com/tandpfun/skill-icons#icons-list -->
- <summary><h3>Languages ​​and technologies I've used 💻</h3></summary>
+ <summary><h3>💻 Languages ​​and technologies I've used</h3></summary>
  <h4>Languages</h4>
  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
  <h4>Technologies</h4>
@@ -83,6 +83,16 @@
 
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=3000&color=3ED784&center=true&vCenter=true&random=false&width=435&height=18&lines=01011000+01101000+01110011+01110100+" />
 <img align="right" src="https://komarev.com/ghpvc/?username=Xhst&style=flat-square&color=3ED784"/>
+
+<br><br>
+
+#
+
+<h3>🔎 Contact me</h3>
+
+<a href="https://discordapp.com/users/330365321519169536"><img src="https://skillicons.dev/icons?i=discord"></a>
+&nbsp;&nbsp;
+<a href="mailto:xhstmtt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 
 <!--
 **Xhst/Xhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
