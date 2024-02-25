@@ -20,14 +20,14 @@
 <p align="center"> 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&show=prs_merged&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
+    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&show=prs_merged&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
+    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&show=prs_merged&disable_animations=true&locale=en&hide_border=true&username=Xhst" width="420" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&username=Xhst" width="420" height="250"/>
 </picture>
 
  <picture>
@@ -51,7 +51,7 @@
  <h4>Languages</h4>
  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
  <h4>Technologies</h4>
- <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,firebase,gradle,maven,hibernate,postman,kafka">
+ <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,gradle,maven,hibernate,postman,kafka">
 </p>
 </details>
 
