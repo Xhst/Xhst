@@ -13,7 +13,7 @@
 <img src="./assets/header.png" />
 </p>
                                                
-<h3 align="center"> I'm Mattia (aka Xhst or Shux) a computer engineering student at Roma Tre University. 🐒🦥 </h3>
+<h3 align="center"> I'm Mattia a computer engineering student at Roma Tre University. 🐒🦥 </h3>
 
 #
 
