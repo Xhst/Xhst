@@ -13,7 +13,7 @@
 <img src="./assets/header.png" />
 </p>
                                                
-<h3 align="center"> I'm Mattia a computer engineering student at Roma Tre University. 🐒🦥 </h3>
+<h3 align="center"> I'm Mattia a computer engineer. I am currently pursuing my master's degree in Computer Engineering (Complex Computer Systems) at Roma Tre University. 🐒🦥 </h3>
 
 #
 
