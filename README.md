@@ -48,9 +48,9 @@
 <p>
   <!-- https://github.com/tandpfun/skill-icons#icons-list -->
  <h4>Languages</h4>
- <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex">
+ <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex,bash">
  <h4>Technologies</h4>
- <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,godot,unity,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,gradle,maven,hibernate,postman,kafka">
+ <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,npm,webpack,godot,unity,git,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,gradle,maven,hibernate,postman,kafka">
 </p>
 </details>
 
