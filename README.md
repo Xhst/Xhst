@@ -13,7 +13,7 @@
 <img src="./assets/header.png" />
 </p>
                                                
-<h3 align="center">Hi, I am Mattia, a software engineer currently pursuing a master's degree in Computer Engineering (Complex Computer Systems) at Roma Tre University. 🐒🦥 </h3>
+<!-- <h3 align="center">Hi, I am Mattia, a software engineer currently pursuing a master's degree in Computer Engineering (Complex Computer Systems) at Roma Tre University. 🐒🦥 </h3> -->
 
 #
 
@@ -42,17 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&langs_count=14&hide_border=true&username=Xhst" alt="lang" width="420" height="270"/> 
 </picture>
 
-#
+<img src="https://streak-stats.demolab.com?user=xhst&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&currStreakLabel=9153DB&currStreakNum=3ED784&ring=663B9B&fire=A961FF&stroke=7E7E7E43&dates=787878&sideNums=3ED784&sideLabels=3ED784" width="600"/>
 
-<details><summary>💻 Languages ​​and technologies I've used</summary>
-<p>
-  <!-- https://github.com/tandpfun/skill-icons#icons-list -->
- <h4>Languages</h4>
- <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex,bash">
- <h4>Technologies</h4>
- <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,npm,webpack,godot,unity,git,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,gradle,maven,hibernate,postman,kafka">
-</p>
-</details>
+
 
 <!-- #
 <details>
@@ -84,6 +76,18 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Xhst&style=flat-square&color=3ED784"/>
 
 <br><br>
+
+#
+
+<details><summary>💻 Languages ​​and technologies I've used</summary>
+<p>
+  <!-- https://github.com/tandpfun/skill-icons#icons-list -->
+ <h4>Languages</h4>
+ <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,ts,py,html,css,sass,php,rust,lua,ocaml,latex,bash">
+ <h4>Technologies</h4>
+ <img src="https://skillicons.dev/icons?i=spring,docker,nodejs,npm,webpack,godot,unity,git,vue,ros,jquery,bootstrap,matlab,postgres,mysql,raspberrypi,wordpress,gradle,maven,hibernate,postman,kafka">
+</p>
+</details>
 
 #
 
