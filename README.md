@@ -93,7 +93,7 @@
 
 <h3>🔎 Contact me</h3>
 
-<a href="https://discordapp.com/users/330365321519169536"><img src="https://skillicons.dev/icons?i=discord"></a>
+<a href="https://discord.gg/J6RfwrnYfA"><img src="https://skillicons.dev/icons?i=discord"></a>
 &nbsp;&nbsp;
 <a href="mailto:xhstmtt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 
