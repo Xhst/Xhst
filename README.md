@@ -94,7 +94,7 @@
 
 <h3>🔎 Contact me</h3>
 
-<a href="https://www.linkedin.com/in/mattia-micaloni-908748255/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.linkedin.com/in/mattia-micaloni/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 &nbsp;&nbsp;
 <a href="mailto:xhstmtt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 &nbsp;&nbsp;
