@@ -94,9 +94,11 @@
 
 <h3>🔎 Contact me</h3>
 
-<a href="https://discord.gg/J6RfwrnYfA"><img src="https://skillicons.dev/icons?i=discord"></a>
+<a href="https://www.linkedin.com/in/mattia-micaloni-908748255/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 &nbsp;&nbsp;
 <a href="mailto:xhstmtt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/J6RfwrnYfA"><img src="https://skillicons.dev/icons?i=discord"></a>
 
 <!--
 **Xhst/Xhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
