@@ -90,8 +90,6 @@
 </p>
 </details> -->
 
-#
-
 <h3>🔎 Contact me</h3>
 
 <a href="https://www.linkedin.com/in/mattia-micaloni/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
