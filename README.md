@@ -11,7 +11,7 @@
 
 <p align="center"><a href="https://xhst.github.io"> <img src="./assets/header.png" /></a></p>
                                                
-<!-- <h3 align="center">Hi, I am Mattia, a software engineer currently pursuing a master's degree in Computer Engineering (Complex Computer Systems) at Roma Tre University. 🐒🦥 </h3> -->
+ <h4 align="center">Hi, I am Mattia, a software engineer currently pursuing a master's degree in Computer Engineering<br> (Complex Computer Systems) at Roma Tre University. 🦥</h4> 
 
 #
 
