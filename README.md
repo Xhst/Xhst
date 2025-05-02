@@ -18,14 +18,14 @@
 <p align="center"> 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=false&title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
+    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=false&title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
+    srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&theme=transparent&username=Xhst"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=false&title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&username=Xhst" width="420" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20stats&hide_rank=true&show_icons=true&disable_animations=true&locale=en&hide_border=true&username=Xhst" width="420" height="300"/>
 </picture>
 
  <picture>
